@@ -6,6 +6,8 @@ For this first challenge, our objective was to take a webpage's HTML and CSS cod
 
 # Link to deployed page
 
+![LIVE LINK](https://tyleresselman.github.io/code-refactor-ch-1/)
+
 # Screenshot of deployed page
 
 ![Screenshot 1](./assets/images/screenshot%201.png)
