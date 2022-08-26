@@ -8,3 +8,7 @@ For this first challenge, our objective was to take a webpage's HTML and CSS cod
 
 # Screenshot of deployed page
 
+![Screenshot 1](./assets/images/screenshot%201.png)
+![Screenshot 2](./assets/images/screenshot%202.png)
+![Screenshot 3](./assets/images/screenshot%203.png)
+
